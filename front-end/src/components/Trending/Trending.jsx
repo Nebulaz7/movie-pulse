@@ -1,4 +1,4 @@
-export function Latest(){
+export function Trending(){
     return (
         <>
         Latest
